@@ -1,3 +1,4 @@
+---
 name: Verify Kubernetes connection
 on: 
   workflow_dispatch:
